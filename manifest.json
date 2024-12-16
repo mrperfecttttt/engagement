@@ -1,0 +1,17 @@
+{
+    "name": "F&S E-Day",
+    "short_name": "F&S E-Day",
+    "description": "RSVP for the event",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "assets/logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
